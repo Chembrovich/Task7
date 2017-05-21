@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task 7</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="time_delimiter">:</string>
+    <string name="choose_text_view">Choose minutes and seconds:</string>
+    <string name="choose_time">You did not choose duration</string>
+    <string name="set_timer">Set timer on  </string>
+    <string name="minutes_extra">minutes</string>
+    <string name="seconds_extra">seconds</string>
+    <string name="some_work">Doing some work…</string>
+    <string name="notification_text">Timer was stopped</string>
+</resources>
